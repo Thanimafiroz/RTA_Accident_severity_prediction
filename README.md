@@ -4,6 +4,10 @@ Description: This data set is collected from Addis Ababa Sub-city police departm
 
 # Accessing the data
 Data can be found in kaggle https://www.kaggle.com/datasets/saurabhshahane/road-traffic-accidents
+
+# System Requirements
+The entire repository is in Python 3.x and you will need some standard data science libraries like pandas and scikit-learn.
+
 # Problem Statement
 
 The target feature is Accident_severity which is a multi-class variable. The task is to classify this variable based on the other 31 features.The metric for evaluation will be f1-score.
