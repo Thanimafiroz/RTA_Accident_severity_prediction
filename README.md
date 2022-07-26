@@ -11,3 +11,6 @@ The entire repository is in Python 3.x and you will need some standard data scie
 # Problem Statement
 
 The target feature is Accident_severity which is a multi-class variable. The task is to classify this variable based on the other 31 features.The metric for evaluation will be f1-score.
+
+
+![image](https://user-images.githubusercontent.com/101709975/180931403-9601f5ff-692c-468a-8388-5612e39bf5e5.png)
